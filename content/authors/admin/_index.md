@@ -108,7 +108,7 @@ social:
     link: https://github.com/vikgbpec
   - icon: linkedin
     icon_pack: fab
-    link:https://in.linkedin.com/in/vikgbpec
+    link: https://in.linkedin.com/in/vikgbpec
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
