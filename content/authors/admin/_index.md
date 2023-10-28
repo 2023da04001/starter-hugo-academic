@@ -22,7 +22,7 @@ role: Software engineer
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: United health group
-    url: https://www.stanford.edu/
+    url:  https://www.unitedhealthgroup.com
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
