@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: Vik
 
 # Name pronunciation (optional)
 name_pronunciation: Vikas Kumar
