@@ -121,4 +121,6 @@ highlight_name: true
 ---
 
 Software Engineer @Optum|| United health group|| Ex-Ericsson_ Automation engineer|| BITS Pilani -Data science and engineering||आ नो भद्राः क्रतवो यन्तु विश्वतः
+
+
 {style="text-align: justify;"}
