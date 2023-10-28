@@ -105,10 +105,10 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/vikgbpec
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link:https://in.linkedin.com/in/vikgbpec
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Software Engineer @Optum|| United health group|| Ex-Ericsson_ Automation engineer|| BITS Pilani -Data science and engineering||आ नो भद्राः क्रतवो यन्तु विश्वतः
 {style="text-align: justify;"}
