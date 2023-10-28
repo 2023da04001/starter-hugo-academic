@@ -1,6 +1,6 @@
 ---
 # Display name
-title:  vik
+title: ||आ नो भद्राः क्रतवो यन्तु विश्वत:||
 
 # Name pronunciation (optional)
 name_pronunciation: Vikas Kumar
@@ -36,15 +36,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: M.tech Data Science Engineering
-      institution: Bits Pilani(india)
-      year: 2023
-    - course: B.tech in Electronics and communication engineering
-      institution: G B Pant Govt Engineering college
-      year: 2014
-    - course: Schooling
-      institution: Govt. Sarvodaya CO-ed Vidyalaya
-      year: 2014
+    - course: PhD in Artificial Intelligence
+      institution: Stanford University
+      year: 2012
+    - course: MEng in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2009
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -96,14 +96,14 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/shortcutvikas
+    link: https://twitter.com/GeorgeCushen
     label: Follow me on Twitter
     display:
       header: true
-    - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-    - icon: github
+  - icon: github
     icon_pack: fab
     link: https://github.com/vikgbpec
   - icon: linkedin
@@ -120,7 +120,7 @@ social:
 highlight_name: true
 ---
 
-Software Engineer @Optum|| United health group|| Ex-Ericsson_ Automation engineer|| BITS Pilani -Data science and engineering
+Software Engineer @Optum|| United health group|| Ex-Ericsson_ Automation engineer|| BITS Pilani -Data science and engineering||आ नो भद्राः क्रतवो यन्तु विश्वतः
 
 
 {style="text-align: justify;"}
