@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Vik
+title: Vआ नो भद्राः क्रतवो यन्तु विश्वतःik
 
 # Name pronunciation (optional)
 name_pronunciation: Vikas Kumar
